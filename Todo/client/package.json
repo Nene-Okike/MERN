@@ -1,0 +1,10 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "concurrently": "^7.6.0",
+    "nodemon": "^2.0.21"
+    "proxy": "http://localhost:5000"
+  }
+}
